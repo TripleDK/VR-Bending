@@ -1,0 +1,87 @@
+
+# ==========================================
+# Unity generated folders
+# ==========================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ==========================================
+# Unity generated files
+# ==========================================
+*.log
+*.blend1
+*.blend1.meta
+sysinfo.txt
+mono_crash.*
+
+# ==========================================
+# IDE generated files
+# ==========================================
+.vs/
+.idea/
+.consulo/
+.gradle/
+ExportedObj/
+
+# Visual Studio / Rider generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# ==========================================
+# OS generated files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# ==========================================
+# Build output
+# ==========================================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ==========================================
+# Unity Addressables generated content
+# ==========================================
+/ServerData/
+/Assets/StreamingAssets/aa*
+/Assets/AddressableAssetsData/link.xml*
+/Assets/Addressables_Temp*
+/Assets/AddressableAssetsData/*/*.bin*
+
+# ==========================================
+# Unity generated plugins
+# ==========================================
+/Assets/Plugins/Editor/JetBrains*
+
+# ==========================================
+# Crash reporting
+# ==========================================
+crashlytics-build.properties
+
+# ==========================================
+# Unity test generated scenes
+# ==========================================
+InitTestScene*.unity*
